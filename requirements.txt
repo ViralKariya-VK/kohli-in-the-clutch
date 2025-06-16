@@ -1,0 +1,20 @@
+# requirements.txt (for Kohli in the Clutch)
+
+# Core Data Science
+pandas>=2.2.0
+numpy>=1.24
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Plotting & Visualization
+matplotlib>=3.7
+seaborn>=0.13
+
+# Jupyter Notebook Environment
+jupyterlab>=4.0
+ipykernel>=6.0
+ipywidgets>=8.0
+
+# For file handling (Python 3.4+ includes pathlib)
+python-dateutil>=2.8
+PyYAML>=6.0  # if you use any .yaml config files

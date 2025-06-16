@@ -1,0 +1,11 @@
+match_id,date,opposition,match_type,match_stage,venue,toss_win,match_winner,target_score,is_chasing,arrival_time,runs_scored,balls_faced,dismissal,dismissal_time,result,clutch_label,player_of_the_match,run_bracket
+INDvPAK_WC2022,2022-10-23,Pakistan,T20,Group,Melbourne,India,India,160,True,7/1,82,53,Not Out,-1,India Win,Clutch,Virat Kohli,80+
+INDvAUS_WC2016,2016-03-27,Australia,T20,Group,Mohali,Australia,India,161,True,23/1,82,51,Not Out,-1,India Win,Clutch,Virat Kohli,80+
+INDvNZ_WC2019,2019-07-09,New Zealand,ODI,Semi-Final,Manchester,New Zealand,New Zealand,240,True,4/1,1,6,LBW,5/2,India Lost,Clutch,Matt Henry,<10
+INDvAUS_WC2023,2023-11-19,Australia,ODI,Final,Ahmedabad,Australia,Australia,241,False,30/1,54,63,Bowled,148/4,India Lost,Clutch,Travis Head,50–79
+INDvPAK_CT2017,2017-06-19,Pakistan,ODI,Final,London,India,Pakistan,339,True,0/1,5,9,Caught,6/2,India Lost,Clutch,Fakhar Zaman,<10
+INDvSL_ODI2014,2014-11-16,Sri Lanka,ODI,Bilateral,Ranchi,Sri Lanka,India,287,True,14/2,139,126,Not Out,-1,India Win,Normal,Angelo Mathews,80+
+INDvBAN_ODI2015,2015-01-24,Bangladesh,ODI,Bilateral,Dhaka,Bangladesh,India,318,False,39/1,25,35,Bowled,114/2,India Win,Normal,Suresh Raina,10–29
+INDvAUS_T202020,2020-12-08,Australia,T20,Bilateral,Sydney,India,Australia,187,True,0/1,85,61,Caught,151/6,India Lost,Normal,Mitchell Swepson,80+
+INDvSA_ODI2018,2018-02-13,South Africa,ODI,Bilateral,Gqeberha,South Africa,India,275,False,48/1,36,54,Run Out,153/2,India Win,Normal,Rohit Sharma,30–49
+INDvAUS_T202016,2016-01-31,Australia,T20,Bilateral,Sydney,Australia,India,198,True,46/1,50,36,Bowled,147/3,India Win,Normal,Shane Watson,50–79

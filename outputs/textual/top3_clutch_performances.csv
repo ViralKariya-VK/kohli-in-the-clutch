@@ -1,0 +1,4 @@
+match_id,date,opposition,match_stage,venue,runs_scored,balls_faced,result,clutch_score
+INDvPAK_WC2022,2022-10-23,Pakistan,Group,Melbourne,82,53,India Win,21.299999999999997
+INDvAUS_WC2016,2016-03-27,Australia,Group,Mohali,82,51,India Win,21.299999999999997
+INDvAUS_WC2023,2023-11-19,Australia,Final,Ahmedabad,54,63,India Lost,15.600000000000001
