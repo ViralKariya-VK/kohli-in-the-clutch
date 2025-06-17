@@ -96,7 +96,7 @@ pip install -r requirements.txt
 ## Author
 
 **Viral Kariya**  
-Aspiring Data Scientist | BCA Topper | Passionate about ML, Cricket & Clean Code  
+BCA Graduate| Aspiring Data Scientist | Passionate about ML, Cricket & Clean Code  
 📫 [Connect on LinkedIn](https://www.linkedin.com/in/kariyaviral/)
 
 ---
